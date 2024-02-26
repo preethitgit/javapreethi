@@ -7,4 +7,9 @@ public class Sample {
 
 	}
 	
+	private void flashCode() {
+		System.out.println("flashcode");
+
+	}
+	
 }
