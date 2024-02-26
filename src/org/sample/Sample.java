@@ -6,5 +6,8 @@ public class Sample {
 		System.out.println("code1");
 
 	}
-	
+	private void preethiCode() {
+		System.out.println("preethicode");
+
+	}
 }
